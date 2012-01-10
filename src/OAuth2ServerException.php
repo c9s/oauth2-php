@@ -2,7 +2,6 @@
 /**
  * OAuth2 errors that require termination of OAuth2 due to
  * an error.
- *
  */
 class OAuth2ServerException extends Exception {
   

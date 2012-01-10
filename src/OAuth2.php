@@ -1,7 +1,4 @@
 <?php
-require 'OAuth2ServerException.php';
-require 'OAuth2AuthenticateException.php';
-require 'OAuth2RedirectException.php';
 /**
  * @mainpage
  * OAuth 2.0 server in PHP, originally written for
